@@ -1,0 +1,33 @@
+C:\Exam\ICT2019L5S1L19 _ 981443225V\Question 1\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.exe.config
+C:\Exam\ICT2019L5S1L19 _ 981443225V\Question 1\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.exe
+C:\Exam\ICT2019L5S1L19 _ 981443225V\Question 1\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.pdb
+C:\Exam\ICT2019L5S1L19 _ 981443225V\Question 1\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.xml
+C:\Exam\ICT2019L5S1L19 _ 981443225V\Question 1\BMI Calculator\BMI Calculator\obj\Debug\BMI_Calculator.Form1.resources
+C:\Exam\ICT2019L5S1L19 _ 981443225V\Question 1\BMI Calculator\BMI Calculator\obj\Debug\BMI_Calculator.Resources.resources
+C:\Exam\ICT2019L5S1L19 _ 981443225V\Question 1\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.vbproj.GenerateResource.Cache
+C:\Exam\ICT2019L5S1L19 _ 981443225V\Question 1\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.exe
+C:\Exam\ICT2019L5S1L19 _ 981443225V\Question 1\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.xml
+C:\Exam\ICT2019L5S1L19 _ 981443225V\Question 1\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.pdb
+G:\Software Programming Practicals_ Exam\ICT2019L5S1L19 _ 981443225V\Question 1 -ICT2019L5S1L19 _ 981443225V\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.exe.config
+G:\Software Programming Practicals_ Exam\ICT2019L5S1L19 _ 981443225V\Question 1 -ICT2019L5S1L19 _ 981443225V\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.exe
+G:\Software Programming Practicals_ Exam\ICT2019L5S1L19 _ 981443225V\Question 1 -ICT2019L5S1L19 _ 981443225V\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.xml
+G:\Software Programming Practicals_ Exam\ICT2019L5S1L19 _ 981443225V\Question 1 -ICT2019L5S1L19 _ 981443225V\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.pdb
+G:\Software Programming Practicals_ Exam\ICT2019L5S1L19 _ 981443225V\Question 1 -ICT2019L5S1L19 _ 981443225V\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.exe
+G:\Software Programming Practicals_ Exam\ICT2019L5S1L19 _ 981443225V\Question 1 -ICT2019L5S1L19 _ 981443225V\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.pdb
+G:\Software Programming Practicals_ Exam\ICT2019L5S1L19 _ 981443225V\Question 1 -ICT2019L5S1L19 _ 981443225V\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.xml
+G:\Software Programming Practicals_ Exam\ICT2019L5S1L19 _ 981443225V\Question 1 -ICT2019L5S1L19 _ 981443225V\BMI Calculator\BMI Calculator\obj\Debug\BMI_Calculator.Form1.resources
+G:\Software Programming Practicals_ Exam\ICT2019L5S1L19 _ 981443225V\Question 1 -ICT2019L5S1L19 _ 981443225V\BMI Calculator\BMI Calculator\obj\Debug\BMI_Calculator.Resources.resources
+G:\Software Programming Practicals_ Exam\ICT2019L5S1L19 _ 981443225V\Question 1 -ICT2019L5S1L19 _ 981443225V\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.vbproj.GenerateResource.Cache
+D:\MP_ Works\My Dev Projects\Vb .net\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.exe.config
+D:\MP_ Works\My Dev Projects\Vb .net\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.exe
+D:\MP_ Works\My Dev Projects\Vb .net\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.pdb
+D:\MP_ Works\My Dev Projects\Vb .net\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.xml
+D:\MP_ Works\My Dev Projects\Vb .net\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.vbproj.AssemblyReference.cache
+D:\MP_ Works\My Dev Projects\Vb .net\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.vbproj.SuggestedBindingRedirects.cache
+D:\MP_ Works\My Dev Projects\Vb .net\BMI Calculator\BMI Calculator\obj\Debug\BMI_Calculator.Form1.resources
+D:\MP_ Works\My Dev Projects\Vb .net\BMI Calculator\BMI Calculator\obj\Debug\BMI_Calculator.Resources.resources
+D:\MP_ Works\My Dev Projects\Vb .net\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.vbproj.GenerateResource.cache
+D:\MP_ Works\My Dev Projects\Vb .net\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.vbproj.CoreCompileInputs.cache
+D:\MP_ Works\My Dev Projects\Vb .net\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.exe
+D:\MP_ Works\My Dev Projects\Vb .net\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.xml
+D:\MP_ Works\My Dev Projects\Vb .net\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.pdb
