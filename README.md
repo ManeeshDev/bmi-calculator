@@ -1,5 +1,5 @@
 
-## 👨‍💻 This is a BMI Calculator Small Desktop Application Form
+## 👨‍💻 This is a BMI Calculator - Small Desktop Application Form
 
 ### 📺 Demo Images
 
